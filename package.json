@@ -1,0 +1,23 @@
+{
+  "name": "migration-to-typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server --inline --progress --colors"
+  },
+  "keywords": [],
+  "author": "Itay Radotzki @radotzki",
+  "license": "MIT",
+  "dependencies": {
+    "angular": "^1.5.3"
+  },
+  "devDependencies": {
+    "awesome-typescript-loader": "^0.17.0-rc.4",
+    "raw-loader": "^0.5.1",
+    "typescript": "^1.8.9",
+    "typings": "^0.7.11",
+    "webpack": "^1.12.14",
+    "webpack-dev-server": "^1.14.1"
+  }
+}
