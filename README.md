@@ -22,7 +22,7 @@ The slides are available online [here](http://slides.com/itayradotzki/typescript
 
 ## How to run this project
 ```console
-git clone
+git clone https://github.com/radotzki/migration-to-typescript.git
 npm install
 npm start
 ```
