@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "webpack-dev-server --inline --progress --colors"
+    "start": "webpack-dev-server --inline --progress --colors",
+    "postinstall": "node_modules/.bin/typings install"
   },
   "keywords": [],
   "author": "Itay Radotzki @radotzki",
